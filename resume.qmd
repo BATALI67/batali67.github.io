@@ -1,89 +1,56 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Alison Bates Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# *Alison Bates*
+Accountant, Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bat19007@byui.edu">bat19007@byui.edu</a>
+| <a href="www.linkedin.com/in/alison-r-ririe">My LinkedIn Profile</a>
+    <a href="208.399.2258">208.399.2258</a>
 </div>
 
 
-## Currently
+## Professional Summary
 
-Standing on the shoulders of giants
+*Adept at working with spreadsheets, software, and with a keen eye for detail, I've used these skills in roles such as a Tax Intern at Sutton & Simmins CPA firm, efficiently reviewing and processing over 50 tax returns daily. My background also includes enriching teaching experiences, which have helped me develop critical thinking and analyzing skills.*
 
-### Specialized in
+## Work History
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Sutton & Simmons CPA firm - Tax Intern**  
+
+*Rexburg, ID . `01/2024 - 04/2024`*  
+- Reviewed tax returns for individuals, S corps, partnership, and Estate Planning  
+- Sent 50+ tax returns a day and copy into GoFileRoom using UltraTax  
+- Prepared emails and physical copies of tax returns for 50+ clients a day  
+- Organized files, payment vouchers, and signature documents for those clients  
 
 
-### Research interests
+**Brigham Young University - Idaho - Accounting Tutor**  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+*Rexburg, ID . `01/2023-12/2023` . `09/2024` - Current*  
+- Tutored for 10+ sections of ACCTG 201 and ACCTG 202  
+- Met with an average of 15-16 students a week to answer questions, explain concepts, and help prepare for exams  
+- Reviewed homework assignments and quizzes to help with comprehension of the subjects
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Brigham Young University - Idaho**  
+*Rexburg, ID . Expected Graduation in `12/2025`*  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Bachelor of Science in Accounting**  
+- Relevant Courses:  
+   Income Tax 1 & 2  
+   Intermediate Financial Accounting  
+   Managerial Accounting  
+   Spreadsheet Analysis  
+- BYU-Idaho Jack R. and Mary Lois Wheatley Leadership Scholarship  
+- GPA: 4.0  
 
-- Sizar
+### Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Fluent in Spanish
+- Familiar with UltraTax
+- Beginner in Python
+- Spreadsheet Analysis
